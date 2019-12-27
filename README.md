@@ -10,10 +10,11 @@ Environment: `Python3`
 
 # Style transfer
 Some generated examples
+![styletransfer4](https://github.com/nicolabc/GAN-playground/blob/master/Style%20transfer/figures/png/Pula_Arena_starry_night_style_transfer.png)
 ![styletransfer](https://github.com/nicolabc/GAN-playground/blob/master/Style%20transfer/figures/png/nico_van_gogh_style_transfer.png)
 ![styletransfer2](https://github.com/nicolabc/GAN-playground/blob/master/Style%20transfer/figures/png/NTNU_scream_style_transfer.png)
 ![styletransfer3](https://github.com/nicolabc/GAN-playground/blob/master/Style%20transfer/figures/png/nico_picasso_style_transfer.png)
-![styletransfer4](https://github.com/nicolabc/GAN-playground/blob/master/Style%20transfer/figures/png/Pula_Arena_starry_night_style_transfer.png)
+
 ## Contact
 
 Nicolas B. Carbone – [@LinkedIn](https://www.linkedin.com/in/nicolas-blystad-carbone-b46378150/) – nicolasbcarbone@gmail.com
