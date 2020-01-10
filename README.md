@@ -1,12 +1,11 @@
 # GAN-playground
-A repository containing GAN projects
+A repository containing GAN projects.
 
+Environment: `Python3`
 
 # Motivation
 A curiosity and interest of the exciting field of Generative adversarial network has lead to the creation of this repository. The intention is to add content as more projects are explored. 
-Style transfer is the first project implemented and the is based on an assignment from StanfordCS class CS231n [link](http://cs231n.github.io/assignments2019/assignment3/)
-
-Environment: `Python3`
+Style transfer is the first project implemented and the is based on an assignment from StanfordCS class CS231n [link](http://cs231n.github.io/assignments2019/assignment3/).
 
 # Style transfer
 Some generated examples
