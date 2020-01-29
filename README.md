@@ -1,7 +1,7 @@
 # GAN-playground
 A repository containing GAN projects.
 
-Environment: `Python3`
+Environment: `Python3` `PyTorch`
 
 # Motivation
 A curiosity and interest of the exciting field of Generative adversarial network has lead to the creation of this repository. The intention is to add content as more projects are explored. 
